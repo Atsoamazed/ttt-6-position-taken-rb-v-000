@@ -6,3 +6,5 @@ elsif board[index] != "" || " " || nil
   return false
 end
 end
+
+
